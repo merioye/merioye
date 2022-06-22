@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on one-to-many audio/video conferencing web app
 - 🌱 I’m currently learning and only learning 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn Next.js, Docker & AWS
+- 🥅 2022 Goals: Learn Redis, Postgresql & AWS
 
 ### Languages and Tools:
 <p align="left"> 
@@ -26,6 +26,9 @@
     <a href="https://socket.io" target="_blank"> <img src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1k7p/364f9e87d38546dd48a6fd75c5c92c10/SOCKETIOICON.gif" height="48" width="48"/> </a> 
    <a href="https://webrtc.org" target="_blank"> <img src="https://miro.medium.com/max/1000/1*ZmoALpPUfjbakRJ_-8vmCw.png" height="55" width="90"/> </a> 
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="48" width="48"/> </a> 
+    </a> 
+  <a href="https://nextjs.org" target="_blank"> <img src="https://img.icons8.com/color/344/nextjs.png" height="48" width="48"/> </a> 
+  <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/color/344/docker.png" height="60" width="60"/> </a> 
 </p>
 
 <br/>

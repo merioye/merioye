@@ -3,10 +3,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45px">, I'm Umair</h1>
 
 ## I'm a Full-stack Javascript developer having expertise in MERN stack
-- 🔭 I’m currently working on one-to-many audio/video conferencing web app
+- 🔭 I’m currently working on Ecommerce website
 - 🌱 I’m currently learning and only learning 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn Redis, Postgresql & AWS
+- 🥅 2022 Goals: Learn Postgresql, Typescript & AWS
 
 ### Languages and Tools:
 <p align="left"> 

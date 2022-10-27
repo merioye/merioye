@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Ecommerce website
 - 🌱 I’m currently learning and only learning 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn Postgresql, Typescript & AWS
+- 🥅 2022 Goals: Learn Docker, Kubernetes & Microservices
 
 ### Languages and Tools:
 <p align="left"> 

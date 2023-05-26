@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45px">, I'm Umair</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" height="45px">, I'm Umair</h1>
 
 ## I'm a Full-stack Javascript developer having expertise in MERN stack
-- 🔭 I’m currently working on Google Docs clone
+- 🔭 I’m currently working on Stackoverflow clone
 - 🌱 I’m currently learning and only learning 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn Docker, Kubernetes & Microservices
+- 🥅 2023 Goals: Learn AWS & Prompt Engineering
 
 ### Languages and Tools:
 <p align="left"> 
